@@ -66,4 +66,4 @@ Times are shown in the **host city's local timezone** as published by myworldcup
 |---|---|
 | `ics_to_teamsnap.py` | Conversion script |
 | `teamsnap_schedule_template.csv` | Official TeamSnap import template (for reference) |
-| `world-cup-2026-*.ics` | Example downloaded ICS file for 10 nations |
+| `world-cup-2026-*.ics` | Example downloaded ICS file for 10 nations, 3 host nations and 7 most favorite to win it |
